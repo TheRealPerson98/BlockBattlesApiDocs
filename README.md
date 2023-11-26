@@ -1,15 +1,6 @@
 # BlockBattles API Documentation
-
-## Overview
-This document outlines the usage of the BlockBattles API, providing access to player statistics, match details, leaderboards, and clan information for the BlockBattles game.
-
 ## Base URL
 api.blockbattles.org
-
-## Setup and Configuration
-- Ensure you have a `.env` file set up with the necessary database connection parameters and the admin password.
-- Dependencies: `express`, `mysql`, `dotenv`, `crypto`, `express-rate-limit`
-- The API uses a MySQL database for data storage.
 
 ## API Endpoints
 
